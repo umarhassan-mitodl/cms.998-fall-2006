@@ -1,0 +1,53 @@
+{
+  "term": "Fall",
+  "year": "2006",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Game Design"
+    ],
+    [
+      "Social Science",
+      "Game Theory"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies"
+    ]
+  ],
+  "legacy_uid": "2e2ca312-110b-0de5-7dd5-03e9911f456e",
+  "instructors": {
+    "content": [
+      "f457d431-4e6f-5109-4f49-b93322af4b0e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "caac8a6b-63ed-2282-2384-b0930390b8bc",
+    "website": "cms-998-videogame-theory-and-analysis-fall-2006"
+  },
+  "course_title": "Videogame Theory and Analysis",
+  "hide_download": true,
+  "course_description": "This course is an introduction to the interdisciplinary study of commercial videogames as texts, examining their cultural, educational, and social functions in contemporary settings. Students play and analyze videogames while examining debates surrounding how games function within socially situated contexts. Readings include contemporary game theory (Gee, Squire, Steinkuehler, Jenkins, Klopfer, Zimmerman and Salen, Juul, Bartle, Taylor, Aarseth) and the completion of a contemporary commercial videogame chosen in consultation with the instructor.\n",
+  "department_numbers": [
+    "CMS-W"
+  ],
+  "extra_course_numbers": "CMS.600",
+  "primary_course_number": "CMS.998",
+  "course_image_thumbnail": {
+    "content": "fc4d68b6-c0af-ed8a-43de-aeff9ff5b7da",
+    "website": "cms-998-videogame-theory-and-analysis-fall-2006"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "9d200360-f962-4879-8d32-e77f1a25c18c",
+  "site_short_id": "cms.998-fall-2006",
+  "site_url_path": "courses/cms-998-videogame-theory-and-analysis-fall-2006",
+  "title": "Course Metadata"
+}

@@ -1,0 +1,23 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 9a094e84-8678-25bc-f7d3-718dadfafc2b
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: d25dd24f-3b5b-756e-4c30-d4fe45312f03
+  name: Readings
+  pageRef: /pages/readings
+  weight: 20
+- identifier: 867eab12-a035-8558-ba51-f2d86ffab0f7
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 30
+- identifier: b9afd171-0be0-148d-def7-c533aabd9596
+  name: Labs
+  pageRef: /pages/labs/
+  weight: 40
+- identifier: f88ff982-4108-931f-2c36-fedd8da3601b
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 50
