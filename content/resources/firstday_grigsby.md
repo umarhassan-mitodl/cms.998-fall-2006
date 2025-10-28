@@ -5,8 +5,6 @@ description: This resource contains information about how Mainstream media and c
 file: /courses/cms-998-videogame-theory-and-analysis-fall-2006/b4803e1218128ec1d709427d6d5144c9_firstday_grigsby.pdf
 file_size: 16158
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

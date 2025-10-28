@@ -5,8 +5,6 @@ description: This resource contains Goals and Expectations, Logistics and Parame
 file: /courses/cms-998-videogame-theory-and-analysis-fall-2006/82be6d464d6dc4cb624267c6a55c659a_lab_assignment.pdf
 file_size: 23266
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

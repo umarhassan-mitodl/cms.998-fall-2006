@@ -1,7 +1,5 @@
 ---
 content_type: page
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -48,7 +46,7 @@ Textbooks
 
 ### Required
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262195362) Salen, K., and E. Zimmerman, eds. [_The Game Design Reader_](https://mitpress.mit.edu/9780262195362). Cambridge, MA: MIT Press, 2005. ISBN: 9780262195362.
+{{% resource_link "7766c057-8fab-4801-bc65-ba96c7a78a02" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Salen, K., and E. Zimmerman, eds. {{% resource_link "7766c057-8fab-4801-bc65-ba96c7a78a02" "_The Game Design Reader_" %}}. Cambridge, MA: MIT Press, 2005. ISBN: 9780262195362.
 
 Gee, J. P. _Why Videogames Are Good For Your Soul_. New York, NY: Common Ground, 2005. ISBN: 9781863355742.
 
@@ -56,9 +54,9 @@ Readings in these texts will be supplemented by other reading assignments for ea
 
 ### Recommended
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262182409) Raessens, J., and J. Goldstein, eds. [_The Handbook of Computer Game Studies_](https://mitpress.mit.edu/9780262182409). Cambridge, MA: MIT Press, 2005. ISBN: 9780262182409.
+{{% resource_link "82fad5e9-f26b-4f46-aadf-5af7b5561d59" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Raessens, J., and J. Goldstein, eds. {{% resource_link "82fad5e9-f26b-4f46-aadf-5af7b5561d59" "_The Handbook of Computer Game Studies_" %}}. Cambridge, MA: MIT Press, 2005. ISBN: 9780262182409.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262232326) Wardrip - Fruin, N., and P. Harrigan. [_First Person: New Media as Story, Performance, and Game_](https://mitpress.mit.edu/9780262232326). Cambridge, MA: MIT Press, 2004. ISBN: 9780262232326.
+{{% resource_link "6bb74e19-e1ce-4ea4-b8dc-6826e5ee47a0" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Wardrip - Fruin, N., and P. Harrigan. {{% resource_link "6bb74e19-e1ce-4ea4-b8dc-6826e5ee47a0" "_First Person: New Media as Story, Performance, and Game_" %}}. Cambridge, MA: MIT Press, 2004. ISBN: 9780262232326.
 
 Weekly Details
 --------------

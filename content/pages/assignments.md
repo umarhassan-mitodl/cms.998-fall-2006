@@ -1,7 +1,5 @@
 ---
 content_type: page
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

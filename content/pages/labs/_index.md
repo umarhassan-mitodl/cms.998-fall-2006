@@ -1,7 +1,5 @@
 ---
 content_type: page
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 ocw_type: CourseSection
@@ -79,9 +77,9 @@ Guild Wars Nightfall
 
 Prince of Persia, potentially 1 and 2
 
-[Okami](http://ps2.ign.com/objects/678/678618.html) for PS2
+{{% resource_link "8dfa2ec8-43f3-4d8b-9807-c61ece6ff6cc" "Okami" %}} for PS2
 
-[Sociolotron](http://www.sociolotron.com/)
+{{% resource_link "c3046491-7b3e-42ad-84bb-a999d2199c39" "Sociolotron" %}}
 
 Animal Crossing on my DS
 

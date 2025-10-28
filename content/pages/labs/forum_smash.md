@@ -1,7 +1,5 @@
 ---
 content_type: page
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 ocw_type: CourseSection
@@ -27,7 +25,7 @@ Smash Videos directory
 
 If you want to learn more about the Smash community or if you want some sample combo videos go to:
 
-[Smashboards](http://smashboards.com/)
+{{% resource_link "99ab05f0-5d62-44d5-8ffa-fc71ec8a17c6" "Smashboards" %}}
 
 \-Sharat Bhat
 

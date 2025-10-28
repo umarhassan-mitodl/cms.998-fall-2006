@@ -4,8 +4,6 @@ description: This resource contains Guidelines for Evaluating Participation.
 file: /courses/cms-998-videogame-theory-and-analysis-fall-2006/ac5a240d15ad1c9e655ac782043ac012_evaluationsheet.pdf
 file_size: 25806
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -1,7 +1,5 @@
 ---
 content_type: page
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -29,6 +27,6 @@ In-class Analysis of Difference and Diversity ({{% resource_link d6b8434f-25d1-d
 Lec #20
 -------
 
-A guest lecture by Jesper Juul: "[Half-Real: A Video Game in the Hands of a Player.](https://soundcloud.com/mit-cmsw/jesper-juul-half-real)"
+A guest lecture by Jesper Juul: "{{% resource_link "eff96915-a791-4d30-bd8b-13027a3b7a7a" "Half-Real: A Video Game in the Hands of a Player." %}}"
 
-**Abstract:** "What happens when a player picks up video game, learns to play it, masters it, and leaves it? Using concepts from my book on video games, [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262101103) _Half-Real: Video Games between Real Rules and Fictional Worlds_ (MIT Press, 2005), I will argue that video game players are neither rational solvers of abstract problems, nor daydreamers in fictional worlds, but both of these things with shifting emphasis. The unique quality of video games is to be located in their intricate interplay of rules and fictions, which I will examine across genres, from casual games to massively multiplayer games."
+**Abstract:** "What happens when a player picks up video game, learns to play it, masters it, and leaves it? Using concepts from my book on video games, {{% resource_link "73efb489-6c0c-46bf-8475-2644f0e93f98" "![Buy at MIT Press](/images/mp_logo.gif)" %}} _Half-Real: Video Games between Real Rules and Fictional Worlds_ (MIT Press, 2005), I will argue that video game players are neither rational solvers of abstract problems, nor daydreamers in fictional worlds, but both of these things with shifting emphasis. The unique quality of video games is to be located in their intricate interplay of rules and fictions, which I will examine across genres, from casual games to massively multiplayer games."
